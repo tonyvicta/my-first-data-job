@@ -1,0 +1,17 @@
+product_id,product_name,category,supplier,unit_price,unit_cost
+P101,Stoneware dinner set,Kitchen,Hearth & Co,44.99,21.5
+P102,Cast iron casserole,Kitchen,Hearth & Co,39.99,19
+P103,Glass storage jars (set of 4),Kitchen,Northgate Home,18.5,7.2
+P104,Bamboo utensil set,Kitchen,Willow Supply,12.99,4.1
+P105,Enamel mixing bowls,Kitchen,Northgate Home,24,10.4
+P106,Copper kettle,Kitchen,Brightline,34.99,16.8
+P201,Linen duvet cover,Bedding,Willow Supply,59.99,24
+P202,Waffle throw,Bedding,Northgate Home,34.99,13.5
+P203,Feather pillow pair,Bedding,Hearth & Co,29.99,11
+P301,Rattan pendant shade,Lighting,Brightline,49.99,20
+P302,Brass table lamp,Lighting,Brightline,69,31
+P303,Linen lamp shade,Lighting,Willow Supply,22.5,8.6
+P401,Seagrass basket,Storage,Willow Supply,19.99,7
+P402,Oak shelf unit,Storage,Northgate Home,89,41
+P501,Ceramic vase,Decor,Hearth & Co,16.99,6.2
+P502,Framed print,Decor,Brightline,27.5,10.9
